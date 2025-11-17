@@ -17,5 +17,5 @@ Analyze sentiment, extract topics, and gain meaningful insights to improve produ
 - run the final_run file
 - open anaconda prompt and run streamlit version
 
-## OUTPUT
+## output
   - check the images folder
