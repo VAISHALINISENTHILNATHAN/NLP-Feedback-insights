@@ -1,0 +1,101 @@
+review,cleaned,sentiment,confidence
+The quality is amazing and I am really satisfied.,quality amazing really satisfied,POSITIVE,0.999882698059082
+Not what I expected and I'm very upset.,expected im upset,NEGATIVE,0.9959623217582703
+Will definitely buy again and the design is very stylish.,definitely buy design stylish,POSITIVE,0.9998375177383423
+"Not bad, not great but nothing extraordinary.",bad great nothing extraordinary,NEGATIVE,0.9972067475318909
+This exceeded my expectations and the design is very stylish.,exceeded expectation design stylish,POSITIVE,0.9981595873832703
+Terrible experience so I will not buy again.,terrible experience buy,NEGATIVE,0.9976061582565308
+Highly recommend this and works perfectly.,highly recommend work perfectly,POSITIVE,0.9998751878738403
+Absolutely fantastic and works perfectly.,absolutely fantastic work perfectly,POSITIVE,0.9998784065246582
+Not what I expected after only a week.,expected week,POSITIVE,0.8599987030029297
+Customer support was helpful and works perfectly.,customer support helpful work perfectly,POSITIVE,0.9998527765274048
+Very happy with my purchase and the design is very stylish.,happy purchase design stylish,POSITIVE,0.9998782873153687
+This exceeded my expectations and I am really satisfied.,exceeded expectation really satisfied,POSITIVE,0.9930021166801453
+Delivery was late which is totally unacceptable.,delivery late totally unacceptable,NEGATIVE,0.99977046251297
+Not what I expected which is totally unacceptable.,expected totally unacceptable,NEGATIVE,0.9996871948242188
+It’s okay as I expected.,okay expected,POSITIVE,0.9855683445930481
+Really well made and the design is very stylish.,really well made design stylish,POSITIVE,0.9998695850372314
+Terrible experience and I'm very upset.,terrible experience im upset,NEGATIVE,0.9993095397949219
+Absolutely fantastic and I am really satisfied.,absolutely fantastic really satisfied,POSITIVE,0.9998863935470581
+This exceeded my expectations and I am really satisfied.,exceeded expectation really satisfied,POSITIVE,0.9930021166801453
+Really well made and I am really satisfied.,really well made really satisfied,POSITIVE,0.9998472929000854
+Great value for money and I am really satisfied.,great value money really satisfied,POSITIVE,0.9997000694274902
+I love this product and I am really satisfied.,love product really satisfied,POSITIVE,0.9992761015892029
+The quality is amazing and the design is very stylish.,quality amazing design stylish,POSITIVE,0.9998798370361328
+Average product but nothing extraordinary.,average product nothing extraordinary,NEGATIVE,0.9984714388847351
+Very happy with my purchase and I am really satisfied.,happy purchase really satisfied,POSITIVE,0.9998767375946045
+Very happy with my purchase and works perfectly.,happy purchase work perfectly,POSITIVE,0.9998800754547119
+Not what I expected after only a week.,expected week,POSITIVE,0.8599987030029297
+"Not bad, not great and it's okay.",bad great okay,POSITIVE,0.9992345571517944
+Just fine for the price.,fine price,POSITIVE,0.9997044205665588
+Not worth the price so I will not buy again.,worth price buy,POSITIVE,0.9997650980949402
+The quality is amazing and I am really satisfied.,quality amazing really satisfied,POSITIVE,0.999882698059082
+Great value for money and the design is very stylish.,great value money design stylish,POSITIVE,0.9997816681861877
+Really well made and works perfectly.,really well made work perfectly,POSITIVE,0.9998632669448853
+Great value for money and I am really satisfied.,great value money really satisfied,POSITIVE,0.9997000694274902
+Nothing special for the price.,nothing special price,NEGATIVE,0.9988071918487549
+Very happy with my purchase and I am really satisfied.,happy purchase really satisfied,POSITIVE,0.9998767375946045
+Delivery was late which is totally unacceptable.,delivery late totally unacceptable,NEGATIVE,0.99977046251297
+Not what I expected which is totally unacceptable.,expected totally unacceptable,NEGATIVE,0.9996871948242188
+Absolutely fantastic and I am really satisfied.,absolutely fantastic really satisfied,POSITIVE,0.9998863935470581
+Absolutely fantastic with no issues so far.,absolutely fantastic issue far,POSITIVE,0.999880313873291
+The quality is amazing and works perfectly.,quality amazing work perfectly,POSITIVE,0.9998785257339478
+Terrible experience so I will not buy again.,terrible experience buy,NEGATIVE,0.9976061582565308
+Very happy with my purchase and I am really satisfied.,happy purchase really satisfied,POSITIVE,0.9998767375946045
+Terrible experience so I will not buy again.,terrible experience buy,NEGATIVE,0.9976061582565308
+I am disappointed so I will not buy again.,disappointed buy,NEGATIVE,0.9995498061180115
+Highly recommend this and the design is very stylish.,highly recommend design stylish,POSITIVE,0.9998695850372314
+I love this product and the design is very stylish.,love product design stylish,POSITIVE,0.9998542070388794
+I love this product and works perfectly.,love product work perfectly,POSITIVE,0.9998779296875
+Great value for money and works perfectly.,great value money work perfectly,POSITIVE,0.9998683929443359
+Wrong item delivered after only a week.,wrong item delivered week,NEGATIVE,0.9997058510780334
+"Not bad, not great for the price.",bad great price,NEGATIVE,0.9987597465515137
+Absolutely fantastic and works perfectly.,absolutely fantastic work perfectly,POSITIVE,0.9998784065246582
+"Not bad, not great and it's okay.",bad great okay,POSITIVE,0.9992345571517944
+Average product but nothing extraordinary.,average product nothing extraordinary,NEGATIVE,0.9984714388847351
+Wrong item delivered which is totally unacceptable.,wrong item delivered totally unacceptable,NEGATIVE,0.9997510313987732
+Wrong item delivered which is totally unacceptable.,wrong item delivered totally unacceptable,NEGATIVE,0.9997510313987732
+Absolutely fantastic and works perfectly.,absolutely fantastic work perfectly,POSITIVE,0.9998784065246582
+Average product but nothing extraordinary.,average product nothing extraordinary,NEGATIVE,0.9984714388847351
+I am disappointed and I'm very upset.,disappointed im upset,NEGATIVE,0.9996809959411621
+This exceeded my expectations and I am really satisfied.,exceeded expectation really satisfied,POSITIVE,0.9930021166801453
+Will definitely buy again and works perfectly.,definitely buy work perfectly,POSITIVE,0.9998750686645508
+Fair quality and it's okay.,fair quality okay,POSITIVE,0.9998353719711304
+Nothing special and it's okay.,nothing special okay,NEGATIVE,0.998860239982605
+The quality is amazing and I am really satisfied.,quality amazing really satisfied,POSITIVE,0.999882698059082
+This exceeded my expectations with no issues so far.,exceeded expectation issue far,POSITIVE,0.9909619688987732
+Could be better and it's okay.,could better okay,POSITIVE,0.7991414070129395
+Meets my needs for the price.,meet need price,POSITIVE,0.9807184934616089
+This exceeded my expectations and works perfectly.,exceeded expectation work perfectly,POSITIVE,0.9996292591094971
+Decent performance as I expected.,decent performance expected,POSITIVE,0.999748170375824
+Will definitely buy again and the design is very stylish.,definitely buy design stylish,POSITIVE,0.9998375177383423
+I love this product and I am really satisfied.,love product really satisfied,POSITIVE,0.9992761015892029
+Really well made with no issues so far.,really well made issue far,POSITIVE,0.9998440742492676
+Delivery was late and I'm very upset.,delivery late im upset,NEGATIVE,0.9975415468215942
+Meets my needs but nothing extraordinary.,meet need nothing extraordinary,NEGATIVE,0.9800289869308472
+Does the job for the price.,job price,POSITIVE,0.9942564368247986
+Broke after and I'm very upset.,broke im upset,NEGATIVE,0.9908022880554199
+Meets my needs for the price.,meet need price,POSITIVE,0.9807184934616089
+The quality is amazing and I am really satisfied.,quality amazing really satisfied,POSITIVE,0.999882698059082
+Terrible experience so I will not buy again.,terrible experience buy,NEGATIVE,0.9976061582565308
+Customer support did not help which is totally unacceptable.,customer support help totally unacceptable,NEGATIVE,0.9994816184043884
+Broke after so I will not buy again.,broke buy,NEGATIVE,0.9665283560752869
+Really well made with no issues so far.,really well made issue far,POSITIVE,0.9998440742492676
+Wrong item delivered so I will not buy again.,wrong item delivered buy,NEGATIVE,0.9996498823165894
+Absolutely fantastic with no issues so far.,absolutely fantastic issue far,POSITIVE,0.999880313873291
+Highly recommend this and I am really satisfied.,highly recommend really satisfied,POSITIVE,0.9998537302017212
+Delivery was late and I'm very upset.,delivery late im upset,NEGATIVE,0.9975415468215942
+Absolutely fantastic with no issues so far.,absolutely fantastic issue far,POSITIVE,0.999880313873291
+Highly recommend this and I am really satisfied.,highly recommend really satisfied,POSITIVE,0.9998537302017212
+Highly recommend this and works perfectly.,highly recommend work perfectly,POSITIVE,0.9998751878738403
+Very happy with my purchase and I am really satisfied.,happy purchase really satisfied,POSITIVE,0.9998767375946045
+Wrong item delivered which is totally unacceptable.,wrong item delivered totally unacceptable,NEGATIVE,0.9997510313987732
+Highly recommend this with no issues so far.,highly recommend issue far,POSITIVE,0.9998148083686829
+Great value for money with no issues so far.,great value money issue far,POSITIVE,0.9634895324707031
+Fair quality but nothing extraordinary.,fair quality nothing extraordinary,NEGATIVE,0.9939151406288147
+Not what I expected which is totally unacceptable.,expected totally unacceptable,NEGATIVE,0.9996871948242188
+"Not bad, not great for the price.",bad great price,NEGATIVE,0.9987597465515137
+Very happy with my purchase and I am really satisfied.,happy purchase really satisfied,POSITIVE,0.9998767375946045
+Meets my needs as I expected.,meet need expected,POSITIVE,0.9148273468017578
+Wrong item delivered after only a week.,wrong item delivered week,NEGATIVE,0.9997058510780334
+Nothing special but nothing extraordinary.,nothing special nothing extraordinary,NEGATIVE,0.9983518123626709
