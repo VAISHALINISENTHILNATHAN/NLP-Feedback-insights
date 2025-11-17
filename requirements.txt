@@ -1,0 +1,10 @@
+nltk
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+regex
+transformers
+sentence-transformers
+torch
